@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-**Task Tracker – Full Stack Intern Assignment**
-=======
 **Task Tracker**
->>>>>>> c383bc6 (Updated)
 
 A clean and simple Task Tracker web application that allows users to add tasks, view them, and mark them as completed.
 Built to demonstrate frontend fundamentals, clean UI, and proper project structure.
